@@ -1,0 +1,22 @@
+C:\Users\Calvin\Desktop\Project 2\Project 2\Project 2\bin\Debug\Project 2.exe.config
+C:\Users\Calvin\Desktop\Project 2\Project 2\Project 2\bin\Debug\Project 2.exe
+C:\Users\Calvin\Desktop\Project 2\Project 2\Project 2\bin\Debug\Project 2.pdb
+C:\Users\Calvin\Desktop\Project 2\Project 2\Project 2\obj\Debug\Project 2.csproj.AssemblyReference.cache
+C:\Users\Calvin\Desktop\Project 2\Project 2\Project 2\obj\Debug\Project_2.DataSelect.resources
+C:\Users\Calvin\Desktop\Project 2\Project 2\Project 2\obj\Debug\Project_2.DataView.resources
+C:\Users\Calvin\Desktop\Project 2\Project 2\Project 2\obj\Debug\Project_2.Properties.Resources.resources
+C:\Users\Calvin\Desktop\Project 2\Project 2\Project 2\obj\Debug\Project 2.csproj.GenerateResource.cache
+C:\Users\Calvin\Desktop\Project 2\Project 2\Project 2\obj\Debug\Project 2.csproj.CoreCompileInputs.cache
+C:\Users\Calvin\Desktop\Project 2\Project 2\Project 2\obj\Debug\Project 2.exe
+C:\Users\Calvin\Desktop\Project 2\Project 2\Project 2\obj\Debug\Project 2.pdb
+\\Mac\Home\Downloads\Project 3\Project 2\bin\Debug\Project 2.exe.config
+\\Mac\Home\Downloads\Project 3\Project 2\bin\Debug\Project 2.exe
+\\Mac\Home\Downloads\Project 3\Project 2\bin\Debug\Project 2.pdb
+\\Mac\Home\Downloads\Project 3\Project 2\obj\Debug\Project 2.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\Project 3\Project 2\obj\Debug\Project_3.DataSelect.resources
+\\Mac\Home\Downloads\Project 3\Project 2\obj\Debug\Project_3.DataView.resources
+\\Mac\Home\Downloads\Project 3\Project 2\obj\Debug\Project_2.Properties.Resources.resources
+\\Mac\Home\Downloads\Project 3\Project 2\obj\Debug\Project 2.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\Project 3\Project 2\obj\Debug\Project 2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Project 3\Project 2\obj\Debug\Project 2.exe
+\\Mac\Home\Downloads\Project 3\Project 2\obj\Debug\Project 2.pdb
