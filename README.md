@@ -1,6 +1,6 @@
 # Stock-DataView
 Stock Data Viewer Project
-Pending approval from professor
+
 
 This Windows Forms app opens a menu allowing user to set start and end dates and choose curated files* containing 
 stock data. Opening these files using a windows file dialog creates a new window for each file selected. This window 
